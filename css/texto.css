@@ -1,0 +1,24 @@
+*{
+	margin: 0;
+	outline: 0;
+	padding: 0;
+}
+#contenedor {
+	margin: 0 auto;
+	width: 80%; 
+}
+img {
+	margin-left: -87%;
+	margin-top: -30%;
+	position: absolute;
+	z-index: -1;
+}
+#contenido {
+	background: white;
+	border-radius: 5px;
+	margin: 30% auto;
+	padding: 2.5%;
+	position: relative;
+	width: 80%;
+	z-index: 1;
+}

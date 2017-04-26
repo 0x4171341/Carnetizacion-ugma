@@ -1,0 +1,7 @@
+.contenedor{ width: 350px; float: left;}
+.titulo{ font-size: 12pt; font-weight: bold;}
+#camara, #foto{
+    width: 320px;
+    min-height: 240px;
+    border: 1px solid #191970;
+}

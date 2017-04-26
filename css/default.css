@@ -1,0 +1,124 @@
+/* General Demo Style */
+
+
+*, *:after, *:before { -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
+
+
+body {
+	color: #FFFF00;
+	background: #eaeaea;
+}
+
+a {
+	color: #888;
+	text-decoration: none;
+	text-align: center;
+		cursor: pointer;
+}
+/*
+
+http://www.xvideos.com/profiles/alison-tyler#_tabVideos
+http://www.xvideos.com/profiles/lexxxi-lockhart#_tabVideos -> import
+http://www.xvideos.com/profiles/franceska-jaimes#_tabVideos -> 6
+http://www.xvideos.com/profiles/alanah-rae#_tabVideos
+http://www.xvideos.com/profiles/annika-adams#_tabVideos
+http://www.xvideos.com/profiles/nina-linda#_tabVideos
+http://www.xvideos.com/profiles/monicasanthiagocustomvideos#_tabVideos.
+http://www.xvideos.com/profiles/ashley-fires#_tabVideos -> Super Import
+http://www.xvideos.com/profiles/anikka-albrite-1#_tabVideos
+http://www.xvideos.com/profiles/tanner-mayes#_tabVideos-> tiene dos buenos|
+http://www.xvideos.com/profiles/sheena-ryder#_tabVideos
+
+http://www.xvideos.com/video8535369/sexy_redhead_milf_kelly_divine_rides_a_massive_cock_10
+http://www.xvideos.com/profiles/ashli-orion#_tabVideos
+http://www.xvideos.com/profiles/kelly-divine#_tabVideos
+http://www.xvideos.com/profiles/jamie-rae#_tabVideos
+http://www.xvideos.com/profiles/julia-ann#_tabVideos
+http://www.xvideos.com/profiles/allie-haze
+http://www.xvideos.com/profiles/taissia-shanti
+http://www.xvideos.com/c/4/ass-14
+
+
+
+http://www.xvideos.com/c/9/anal-12-> Ver
+http://www.xvideos.com/video7773813/wcpclub_sexy_housewife_casey_calvert_gets_a_black_dick_anal_pounding#_tabComments -> Ver
+http://www.xvideos.com/profiles/casey-calvert#_tabVideos -> ver
+
+
+
+http://www.xvideos.com/video5621001/pornstar_milf_in_a_deep_anal_penetration->Ver Ya
+http://www.xvideos.com/video9314347/uma_ruiva_amador_fazendo_anal_ao_ar_livre#_tabComments->Ver Ya
+http://www.xvideos.com/video10163817/xvideos.com_1193e215f1e1d2f897f9d8ad111fe43c#_tabComments->Ver|1
+http://www.xvideos.com/video8395116/sexy_girl_wants_to_be_sodomised-> Ver Ya
+http://www.xvideos.com/video10043948/sexy_big_ass_latina_julianna_vega_get_fucked
+
+*/
+
+a:hover,
+a:active {
+	color: #333;
+}
+
+img {
+	border-radius: 5px;
+	border: solid 1px rgba(0,0,0,0.15);
+}
+
+
+
+/*
+
+nav {
+    position: fixed;
+    margin-top:-60px;
+}
+nav ul li {
+    display: inline-block;
+    margin-left: 43px;
+}
+#primero {
+    margin-top:50px;
+    height: 500px;
+}
+
+#segundo {
+    height: 500px;
+}
+
+#tercero {
+    height: 500px;
+}
+
+
+
+<nav>
+    <ul>
+        <li><button id="goPrimero">Primero</button></li>
+        <li><button id="goSegundo">Segundo</button></li>
+        <li><button id="goTercero">Tercero</button></li>
+    </ul>
+</nav>
+<div id="primero"><h1>Primero</h1></div>
+<div id="segundo"><h1>Segundo</h1></div>
+<div id="tercero"><h1>Tercero</h1></div>
+
+
+
+$('#goPrimero').on('click', function(e){
+    var posY = $('#primero').offset().top;
+    $('html, body').animate({'scrollTop': posY}, 1000);
+});
+
+$('#goSegundo').on('click', function(e){
+    var posY = $('#segundo').offset().top;
+    $('html, body').animate({'scrollTop': posY}, 1000);
+});
+
+$('#goTercero').on('click', function(e){
+    var posY = $('#tercero').offset().top;
+    $('html, body').animate({'scrollTop': posY}, 1000);
+});
+
+
+
+*/
