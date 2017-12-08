@@ -1,5 +1,3 @@
-# ugma
-Sistema de carnetizacion, este fue creado para automatizar el trabajo mecanico del crear carnets
-en la ugma "El Tigre" esta escrito con php, html5, css3, bootstrap
-#Aun tiene modulos que no estan implementados pero estan casi que completa la idea
-ya veremos que mas surge en el camino!
+# UGMA "El TIGRE"
+Este sistema fue creado  para automatizar la gestion de carnetizacion de la universidad gran mariscal de ayacucho sede ""EL TIGRE
+comenzo siendo una  automatizacion de un front con javascript, htm5,bootstrap por mi persona y un amigo Axcel rojas... 
